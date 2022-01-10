@@ -1,0 +1,6 @@
+{
+  "env": {
+    "MONGO_URL_DEV": "mongodb://localhost:27017/e-commerce_app",
+    "JWT_KEY": "alhamdulillahgaAllah"
+  }
+}
